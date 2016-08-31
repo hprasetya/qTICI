@@ -1,0 +1,6 @@
+Update Log
+
+version 2.0:
+- Remove manual ROI
+- Retrieve ROI from third-app (ITK-SNAP)
+- Remove MEAN method
